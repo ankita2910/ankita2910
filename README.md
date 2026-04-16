@@ -110,13 +110,6 @@ Currently working on **real-time satellite telemetry pipelines** and **live feed
 | [GraphQL VM Management Platform](https://github.com/ankita2910/go-graphql-vm-platform) | VM lifecycle API with DynamoDB & gqlgen | Go, GraphQL, DynamoDB |
 | [Go TaskFlow](https://github.com/ankita2910/Go-TaskFlow-Multi-Tenant-Task-Managment-API) | Multi-tenant task management GraphQL API | Go, GraphQL, DataLoader |
 
----
-
-## Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://ankita2910.github.io/AnkitaDewangswami.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-dewangswami-4b616a1b1/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitadewangswami@gmail.com)
 
 ---
 
