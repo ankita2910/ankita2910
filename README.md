@@ -79,7 +79,7 @@ Currently working on **real-time satellite telemetry pipelines** and **live feed
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Company | Period |
 |------|---------|--------|
