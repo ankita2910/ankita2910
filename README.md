@@ -26,57 +26,18 @@ Currently working on **real-time satellite telemetry pipelines** and **live feed
 ---
 
 ## Tech Stack
-
-**Languages**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Cloud & Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
-![EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
-![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
-
-**Containers & Orchestration**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-**Streaming & Messaging**
-
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
-![AWS MSK](https://img.shields.io/badge/AWS_MSK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-**APIs & Frameworks**
-
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![gqlgen](https://img.shields.io/badge/gqlgen-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-**Databases**
-
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Observability & DevOps**
-
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Renovate](https://img.shields.io/badge/Renovate-1A1F6C?style=for-the-badge&logo=renovatebot&logoColor=white)
-
-**Networking & SDN**
-
-![OpenDaylight](https://img.shields.io/badge/OpenDaylight-0072C6?style=for-the-badge&logoColor=white)
-![OpenStack Neutron](https://img.shields.io/badge/Neutron-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
-
+ 
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Go, Python, Bash |
+| **Cloud & Infrastructure** | AWS, AWS Lambda, ECS, EKS, OpenStack |
+| **Containers & Orchestration** | Kubernetes, Docker, NGINX |
+| **Streaming & Messaging** | Apache Kafka, Apache Flink, AWS MSK |
+| **APIs & Frameworks** | GraphQL, FastAPI, gqlgen, RESTCONF |
+| **Databases** | DynamoDB, PostgreSQL, Redis |
+| **Observability & DevOps** | CloudWatch, OpenTelemetry, Prometheus, Grafana, Renovate |
+| **Networking & SDN** | OpenDaylight, OpenStack Neutron, TCP Sockets, Karaf |
+ 
 ---
 
 ## Experience
