@@ -111,12 +111,3 @@ Currently working on **real-time satellite telemetry pipelines** and **live feed
 | [Go TaskFlow](https://github.com/ankita2910/Go-TaskFlow-Multi-Tenant-Task-Managment-API) | Multi-tenant task management GraphQL API | Go, GraphQL, DataLoader |
 
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankita2910&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Ankita's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita2910&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
