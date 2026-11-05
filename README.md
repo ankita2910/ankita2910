@@ -1,5 +1,3 @@
-# Hi, I'm Ankita Dewangswami 👋
-
 ### Backend · Platform · Infrastructure Engineer
 
 > *Building cloud infrastructure at scale.*
